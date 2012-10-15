@@ -1,0 +1,48 @@
+@import 'http://fonts.googleapis.com/css?family=Archivo+Narrow';
+
+body {
+	background: #5c5c5b;
+    font-family: arial;
+}
+
+#wrapper {
+	background: url('images/bg.jpg');
+	width: 1024px;
+	height: 768px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.camera {
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+
+.reel {
+	position: absolute;
+	top: 150px;
+	right: 30px;
+}
+
+.intro {
+    font-family: "Archivo Narrow";
+    text-align: center;
+	width: 365px;
+	position: absolute;
+	top: 100px;
+	left: 300px;
+    line-height: 150%;
+}
+
+.polariods {
+	width: 1024px;
+	text-align: center;
+	position: absolute;
+	bottom: 80px;
+}
+
+.fancybox {
+    display: inline-block;
+    padding: 0 50px;    
+}

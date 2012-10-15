@@ -1,0 +1,65 @@
+<html>
+<head>
+	<title>Stella Jay Heath Graphic Design</title>
+	<style type="text/css">@import 'styles.css';</style>
+</head>
+<body>
+	<div id="wrapper">
+		<div class="camera"><img src="images/camera.png" /></div>
+		<div class="reel">
+            <ul class="list">
+                <li>
+                    <a class="various fancybox.iframe" href="http://www.youtube.com/embed/L9szn1QQfas?autoplay=1">
+                        <img src="images/reel.png" />
+                    </a>
+                </li>
+            </ul>
+        </div>
+		<div class="intro">
+			<img src="images/logo.png" />
+			<h1>Hello!</h1>
+			<p>I am Estella Jaymeson Heath, Graphic design student
+			Volunteer video editor for Scary Cow in San Francisco.  
+			I have a degree in Sociology and three years experience
+			working in a design department.  I love being creative.  
+			Please click the photos below to see my work.
+			Enjoy and thanks for visiting!</p>
+		</div>
+		<div class="polariods">	
+            <a class="fancybox" href="images/basketball.png" rel="pol"><img src="images/pol_basketball.png" /></a>
+            <a class="fancybox" href="images/bait.png" rel="pol"><img src="images/pol_bait.png" /></a>
+            <a class="fancybox" href="images/roadside.jpg" rel="pol"><img src="images/pol_roadside.png" /></a>
+		</div>
+	</div>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <link rel="stylesheet" href="fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="fancybox/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".fancybox").fancybox({
+                openEffect  : 'elastic',
+                closeEffect : 'elastic',
+
+                helpers : {
+                    title : {
+                        type : 'inside'
+                    }
+                }
+            });
+
+            $(".various").fancybox({
+                maxWidth    : 800,
+                maxHeight   : 600,
+                fitToView   : false,
+                width       : '70%',
+                height      : '70%',
+                autoSize    : false,
+                closeClick  : false,
+                openEffect  : 'none',
+                closeEffect : 'none'
+            });
+
+        });
+    </script>
+</body>
+</html>
