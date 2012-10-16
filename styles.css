@@ -25,6 +25,10 @@ body {
 	right: 30px;
 }
 
+.fancyphoto-list {
+	list-style-type: none;
+}
+
 .intro {
     font-family: "Archivo Narrow";
     text-align: center;
