@@ -20,3 +20,25 @@ body{
    overflow: auto;
    text-align: center;
 }
+#header{
+}
+#content{
+   margin: 0;
+   padding: 0;
+}
+#footer{
+   position: absolute;
+   bottom: 5px;
+   left: 5px;
+   right: 5px;
+   overflow: hidden;
+}
+.left{
+   float: left;
+}
+.right{
+   float: right;
+}
+.clear{
+   float: clear;
+}
