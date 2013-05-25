@@ -1,0 +1,53 @@
+body{
+   background: #C0C0C0;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   font-family: "Times New Roman", Times, serif;
+}
+#container{
+   position: relative;
+   background: #FFFFFF;
+   width: 800px;
+   height: 100%;
+   margin-left: auto;
+   margin-right:auto;
+   border-radius: 1em;
+   -moz-border-radius: 1em;
+   -webkit-border-radius: 1em;
+   overflow: auto;
+   text-align: center;
+}
+#header{
+   padding: 0;
+   margin: 0;
+}
+#content{
+   margin: 0;
+   padding: 0;
+}
+#footer{
+   position: absolute;
+   bottom: 5px;
+   left: 5px;
+   right: 5px;
+   overflow: hidden;
+}
+.banner{
+   padding: 0;
+   margin: 0;
+}
+.left{
+   float: left;
+}
+.right{
+   float: right;
+}
+.clear{
+   float: clear;
+}
+.gallery{
+   text-decoration: none;
+}
