@@ -10,10 +10,11 @@ body{
 #container{
    position: relative;
    background: #FFFFFF;
-   width: 800px;
+   width: 820px;
    height: 100%;
    margin-left: auto;
-   margin-right:auto;
+   margin-right: auto;
+   padding: 0;
    border-radius: 1em;
    -moz-border-radius: 1em;
    -webkit-border-radius: 1em;
