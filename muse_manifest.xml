@@ -1,0 +1,123 @@
+<manifest alg="2" build="8" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="89652228"/>
+    <file name="master_a-master.css" crc="3927484286" ref="fine-art:about-me:resume:graphic-design:index:contact"/>
+    <file name="fine-art.css" crc="3835722949" ref="fine-art"/>
+    <file name="about-me.css" crc="3955714481" ref="about-me"/>
+    <file name="resume.css" crc="4234140002" ref="resume"/>
+    <file name="graphic-design.css" crc="201564639" ref="graphic-design"/>
+    <file name="index.css" crc="243350654" ref="index"/>
+    <file name="contact.css" crc="4246841914" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <folder name="stars2animate">
+      <folder name="edge_includes">
+        <file name="edge.1.5.0.min.js" crc="278316596" mt="1372287639000"/>
+        <file name="jquery-1.7.1.min.js" crc="111770969" mt="1372287639000"/>
+      </folder>
+      <folder name="images">
+        <file name="AboutLink.png" crc="4130013321" mt="1372287639000"/>
+        <file name="BioLink.png" crc="150344697" mt="1372287639000"/>
+        <file name="ContactLink.png" crc="223279588" mt="1372287639000"/>
+        <file name="FineArtLink.png" crc="4273930449" mt="1372287639000"/>
+        <file name="GraphicLink.png" crc="3838978905" mt="1372287639000"/>
+        <file name="Poster.png" crc="3775051332" mt="1372287639000"/>
+        <file name="ResumeLink.png" crc="52123180" mt="1372287639000"/>
+        <file name="Webpage1.png" crc="3952171624" mt="1372287639000"/>
+        <file name="WebpageAboutPage.png" crc="4092097348" mt="1372287639000"/>
+        <file name="WebpageArtsPage.png" crc="11867164" mt="1372287639000"/>
+        <file name="WebpageBioPage.png" crc="4161588649" mt="1372287639000"/>
+        <file name="WebpageContactPage.png" crc="181296117" mt="1372287639000"/>
+        <file name="WebpageGraphicsPage.png" crc="3799067040" mt="1372287639000"/>
+        <file name="WebpageResumePage.png" crc="225112494" mt="1372287639000"/>
+      </folder>
+      <file name="stars2animate_edge.js" crc="4272377155" mt="1372287639000"/>
+      <file name="stars2animate_edgeActions.js" crc="4124725417" mt="1372287639000"/>
+      <file name="stars2animate_edgePreload.js" crc="135461677" mt="1372287639000"/>
+      <file name="star1.gif" crc="4183910748" mt="1372287639000"/>
+      <file name="star2.gif" crc="527457026" mt="1372287639000"/>
+      <file name="star3.gif" crc="4120701710" mt="1372287639000"/>
+      <file name="star4.gif" crc="3902126131" mt="1372287639000"/>
+      <file name="star5.gif" crc="3760528565" mt="1372287639000"/>
+      <file name="stars2animate.html" crc="451194652" mt="1372287639000"/>
+    </folder>
+    <file name="background.svg" crc="66991351" mt="1372286497000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="museutils.js" crc="4215913851" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="pie.js" crc="3786417276" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="webpro.js" crc="4060715896" ref="contact:fine-art:graphic-design"/>
+    <file name="musewpslideshow.js" crc="44180946" ref="fine-art:graphic-design"/>
+    <file name="jquery.museoverlay.js" crc="421226699" ref="fine-art:graphic-design"/>
+    <file name="touchswipe.js" crc="261777990" ref="fine-art:graphic-design"/>
+  </folder>
+  <folder name="images">
+    <file name="squairy_light.png" crc="4109330034" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="aboutarrow.gif" crc="402866199" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="artarrow.gif" crc="4111600434" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="contactarrow.gif" crc="257968595" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="graphicarrow.gif" crc="3864595691" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="resumearrow.gif" crc="32035425" ref="index:contact:about-me:fine-art:graphic-design:resume"/>
+    <file name="stellabanner.gif" crc="3788693961" ref="index"/>
+    <file name="me.jpg" crc="520025738" ref="index"/>
+    <file name="stellabanner2.gif" crc="49699565" ref="contact"/>
+    <file name="u2349-17.png" crc="4114673003" ref="contact"/>
+    <file name="u2349-17-r.png" crc="3883593696" ref="contact"/>
+    <file name="u2349-17-m.png" crc="3923747979" ref="contact"/>
+    <file name="u2349-17-fs.png" crc="3862195594" ref="contact"/>
+    <file name="aboutbanner.gif" crc="3899121075" ref="about-me"/>
+    <file name="artbanner.gif" crc="4160887148" ref="fine-art"/>
+    <file name="bikedrawing.jpg" crc="3799541002" ref="fine-art"/>
+    <file name="blank.gif" crc="4208392903" ref="fine-art:graphic-design"/>
+    <file name="charcoal.jpg" crc="3769984509" ref="fine-art"/>
+    <file name="ink.jpg" crc="4160252978" ref="fine-art"/>
+    <file name="letter l.jpg" crc="4193147819" ref="fine-art"/>
+    <file name="lineart.jpg" crc="64767895" ref="fine-art"/>
+    <file name="morph.jpg" crc="4202048925" ref="fine-art"/>
+    <file name="outline.jpg" crc="400827745" ref="fine-art"/>
+    <file name="rodserling.jpg" crc="207012686" ref="fine-art"/>
+    <file name="stamps.jpg" crc="3822980988" ref="fine-art"/>
+    <file name="bikedrawing129x172.jpg" crc="55612553" ref="fine-art"/>
+    <file name="charcoal133x162.jpg" crc="3916665088" ref="fine-art"/>
+    <file name="ink216x162.jpg" crc="491839523" ref="fine-art"/>
+    <file name="letter l216x162.jpg" crc="4262734922" ref="fine-art"/>
+    <file name="lineart204x162.jpg" crc="4174600935" ref="fine-art"/>
+    <file name="morph216x162.jpg" crc="4135046634" ref="fine-art"/>
+    <file name="outline196x163.jpg" crc="3877344936" ref="fine-art"/>
+    <file name="rodserling129x189.jpg" crc="190468789" ref="fine-art"/>
+    <file name="stamps129x172.jpg" crc="377324366" ref="fine-art"/>
+    <file name="loading.gif" crc="3815509949" ref="fine-art:graphic-design"/>
+    <file name="graphicbanner.gif" crc="150409568" ref="graphic-design"/>
+    <file name="ad.png" crc="3774811036" ref="graphic-design"/>
+    <file name="bait.jpg" crc="4189775652" ref="graphic-design"/>
+    <file name="screen shot 2013-01-27 at 55631 pm.jpg" crc="227386523" ref="graphic-design"/>
+    <file name="screen shot 2013-01-27 at 63641 pm.jpg" crc="4151467695" ref="graphic-design"/>
+    <file name="screen shot 2013-03-24 at 114121 pm.jpg" crc="3789619715" ref="graphic-design"/>
+    <file name="robot1.jpg" crc="4224736794" ref="graphic-design"/>
+    <file name="dino.jpg" crc="4059793018" ref="graphic-design"/>
+    <file name="letterz.jpg" crc="260022141" ref="graphic-design"/>
+    <file name="poem.jpg" crc="3814871744" ref="graphic-design"/>
+    <file name="screen shot 2012-12-09 at 103559 pm.jpg" crc="20347618" ref="graphic-design"/>
+    <file name="screen shot 2013-02-10 at 60704 pm.jpg" crc="318742553" ref="graphic-design"/>
+    <file name="ad187x144.jpg" crc="3985863509" ref="graphic-design"/>
+    <file name="bait137x178.jpg" crc="102759841" ref="graphic-design"/>
+    <file name="screen shot 2013-01-27 at 55631 pm223x144.jpg" crc="3959048757" ref="graphic-design"/>
+    <file name="screen shot 2013-01-27 at 63641 pm223x144.jpg" crc="205587343" ref="graphic-design"/>
+    <file name="screen shot 2013-03-24 at 114121 pm167x144.jpg" crc="3984128469" ref="graphic-design"/>
+    <file name="robot1240x144.jpg" crc="470186074" ref="graphic-design"/>
+    <file name="dino137x178.jpg" crc="3947748098" ref="graphic-design"/>
+    <file name="letterz137x178.jpg" crc="341039101" ref="graphic-design"/>
+    <file name="poem137x178.jpg" crc="196280233" ref="graphic-design"/>
+    <file name="screen shot 2012-12-09 at 103559 pm223x144.jpg" crc="8167071" ref="graphic-design"/>
+    <file name="screen shot 2013-02-10 at 60704 pm137x200.jpg" crc="4108029810" ref="graphic-design"/>
+    <file name="resumebanner.gif" crc="37876807" ref="resume"/>
+  </folder>
+  <file name="index.html" crc="4012151693" mt="1372306193016"/>
+  <file name="contact.html" crc="3835969011" mt="1372307301582"/>
+  <file name="about-me.html" crc="478132441" mt="1372294626979"/>
+  <file name="fine-art.html" crc="3778539105" mt="1372297044890"/>
+  <file name="graphic-design.html" crc="70729119" mt="1372296493457"/>
+  <file name="resume.html" crc="21854298" mt="1372294626986"/>
+</manifest>
